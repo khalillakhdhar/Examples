@@ -1,0 +1,14 @@
+C:\Users\khali\source\repos\Examples\bin\Debug\net9.0\Examples.exe
+C:\Users\khali\source\repos\Examples\bin\Debug\net9.0\Examples.deps.json
+C:\Users\khali\source\repos\Examples\bin\Debug\net9.0\Examples.runtimeconfig.json
+C:\Users\khali\source\repos\Examples\bin\Debug\net9.0\Examples.dll
+C:\Users\khali\source\repos\Examples\bin\Debug\net9.0\Examples.pdb
+C:\Users\khali\source\repos\Examples\obj\Debug\net9.0\Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khali\source\repos\Examples\obj\Debug\net9.0\Examples.AssemblyInfoInputs.cache
+C:\Users\khali\source\repos\Examples\obj\Debug\net9.0\Examples.AssemblyInfo.cs
+C:\Users\khali\source\repos\Examples\obj\Debug\net9.0\Examples.csproj.CoreCompileInputs.cache
+C:\Users\khali\source\repos\Examples\obj\Debug\net9.0\Examples.dll
+C:\Users\khali\source\repos\Examples\obj\Debug\net9.0\refint\Examples.dll
+C:\Users\khali\source\repos\Examples\obj\Debug\net9.0\Examples.pdb
+C:\Users\khali\source\repos\Examples\obj\Debug\net9.0\Examples.genruntimeconfig.cache
+C:\Users\khali\source\repos\Examples\obj\Debug\net9.0\ref\Examples.dll

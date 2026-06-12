@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khali\\source\\repos\\Examples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B67BBFF0-5B66-4538-81BF-01E670FB1A01}|Examples.csproj|c:\\users\\khali\\source\\repos\\examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67BBFF0-5B66-4538-81BF-01E670FB1A01}|Examples.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67BBFF0-5B66-4538-81BF-01E670FB1A01}|Examples.csproj|c:\\users\\khali\\source\\repos\\examples\\produits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67BBFF0-5B66-4538-81BF-01E670FB1A01}|Examples.csproj|solutionrelative:produits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produits.cs",
+              "DocumentMoniker": "C:\\Users\\khali\\source\\repos\\Examples\\Produits.cs",
+              "RelativeDocumentMoniker": "Produits.cs",
+              "ToolTip": "C:\\Users\\khali\\source\\repos\\Examples\\Produits.cs",
+              "RelativeToolTip": "Produits.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA/wBsAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T14:56:17.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khali\\source\\repos\\Examples\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\khali\\source\\repos\\Examples\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T14:23:56.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
